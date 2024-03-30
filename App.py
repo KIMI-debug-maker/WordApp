@@ -5,7 +5,7 @@ import random
 from datetime import datetime
 
 
-n = 100
+n = 50
 words_ = ['self-motivate', 'self-starter', 'ambitious', 'assertive', 'driven', 'results-driven', 'tenacious',
           'resourceful', 'solution-orientation', 'goal-oriented', 'forward-thinking', 'motivation',
           'strategically-important', 'flexible', 'client-service', 'self-start', 'customer-oriented', 'achiever',
